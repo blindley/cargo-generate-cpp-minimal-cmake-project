@@ -1,6 +1,5 @@
 [template]
 ignore = [
-    "build",
+    "target",
     ".vscode",
-    "Cargo.lock"
 ]
